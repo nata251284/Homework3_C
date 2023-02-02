@@ -1,0 +1,15 @@
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\bin\Debug\net6.0\Task23.exe
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\bin\Debug\net6.0\Task23.deps.json
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\bin\Debug\net6.0\Task23.dll
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\bin\Debug\net6.0\Task23.pdb
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\Task23.dll
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\refint\Task23.dll
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\Task23.pdb
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+C:\My documents\Тестирование\семинары С#\Homework3\Task23\obj\Debug\net6.0\ref\Task23.dll
